@@ -4,7 +4,9 @@ import { View, Text } from "react-native";
 export default function Title(){
     return(
         <View>
-            <Text>Título 3B1 Lado B</Text>
+            <Text>
+                Nome: Maria Eduarda Chiari
+            </Text>
         </View>
     );
 }
